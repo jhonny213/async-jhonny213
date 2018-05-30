@@ -1,0 +1,23 @@
+{
+  "name": "async-jhonny213",
+  "version": "1.0.0",
+  "description": "fonction et modèles communs pour les code asynchrone",
+  "main": "Async.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonny213/async-jhonny213.git"
+  },
+  "keywords": [
+    "myasync",
+    "test"
+  ],
+  "author": "haddad nacereddine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonny213/async-jhonny213/issues"
+  },
+  "homepage": "https://github.com/jhonny213/async-jhonny213#readme"
+}
